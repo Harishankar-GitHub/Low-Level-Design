@@ -1,5 +1,8 @@
 # Low Level Design (LLD)
 
+## Solutions
+1. [Tic Tac Toe]()
+
 ## Videos/Playlists/Resources
 - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvQVh7WsgZ8SurU1O2v_UM7)
 - [The Code Mate](https://www.youtube.com/playlist?list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd)
