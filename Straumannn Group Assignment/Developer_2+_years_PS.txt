@@ -1,0 +1,13 @@
+Problem statement:
+
+As a Software Engineer you are provided a requirement to develop a library which would be used in our world class  CAD/CAM devices. The requirements are as follows:
+	1. The library is capable of providing a list of free ports present in a device
+	2. The library (with abstraction) accepts the number of free ports (numOfFreePorts) to be returned 
+	3. The library checks from a range (rangeOfPorts) of ports and finds out the free ports which is in-between/also part of the range
+	4. This library would be used in a multi-threaded environment.
+
+Constraints:
+	1. rangeOfPorts: (10000 <= n)
+	2. 0 < numOfFreePorts <=  55535
+	
+Note: Implementation should cover all cases
